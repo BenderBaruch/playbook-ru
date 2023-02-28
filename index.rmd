@@ -34,3 +34,5 @@ As community members, we are all well aware of the infinite ways in which commun
 The rules of building a decentralized, digital community differ from building, say, an irl community. This playbook mainly focusses on the former type of communities, and highlights the concepts and practices that *seem* to work in this domain.
 
 We invite you to share your experiences so we may refine this playbook, and make it a possible reference point for the community builders of tomorrow. 😄
+
+test change
